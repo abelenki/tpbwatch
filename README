@@ -1,0 +1,3 @@
+Scrapes search results page for a particular website and exports the
+interesting results in a RSS feed.  Could be adapted to do the same for
+another site.
